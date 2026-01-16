@@ -28,14 +28,7 @@ _Disclaimer: This was vibe coded. It's a very straightforward and scoped compone
 
 ### HACS (Recommended)
 
-1. In HACS, click on "Integrations"
-2. Click the three dots in the top right corner
-3. Select "Custom repositories"
-4. Add the URL `https://github.com/zacs/ha-receipt_printer` and select the category "Integration"
-5. Click the "+" button in the bottom right corner
-6. Search for "Receipt Printer"
-7. Click "Install"
-8. Restart Home Assistant
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=Zacs&repository=ha-receipt_printer&category=Integration)
 
 ### Manual Installation
 
@@ -275,3 +268,4 @@ Epson spec sheet for the TM-T88VI (the only model I have): https://download4.eps
 [license-shield]: https://img.shields.io/github/license/zacs/ha-receipt_printer.svg?style=for-the-badge
 [releases-shield]: https://img.shields.io/github/release/zacs/ha-receipt_printer.svg?style=for-the-badge
 [releases]: https://github.com/zacs/ha-receipt_printer/releases
+
